@@ -4,7 +4,7 @@ int mod (int a, int b);
 
 int main(int argc, char *argv[]){
     int ret = 0;
-    int a = 5;
+    int a = -5;
     int b = -41;
     
     ret = mod(a,b);
